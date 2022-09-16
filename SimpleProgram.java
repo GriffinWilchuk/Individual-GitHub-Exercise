@@ -2,6 +2,7 @@
 
 class SimpleProgram {
     public static void main(String[] args) {
+
     //simple tests
     int c = subtract(8, 2);
     if(c == 6){
@@ -25,8 +26,9 @@ class SimpleProgram {
     public static int subtract(int a, int b){
 
         return a - b;
-    }
+
 
         
 
 }
+
