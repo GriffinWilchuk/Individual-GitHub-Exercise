@@ -6,9 +6,9 @@ class SimpleProgram {
         
     }
 
-    public int add(int a, int b){
+    public int multiply(int a, int b){ //function call is now multiply()
 
-        return a + b;
+        return a * b;  //function now multiplies a and b instead of adding
     }
 
         
